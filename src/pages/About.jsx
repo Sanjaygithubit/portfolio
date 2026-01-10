@@ -51,11 +51,7 @@ export default function About() {
               Personal Biography
             </h3>
             <p className="text-gray-200 leading-relaxed">
-              Tanglish:
-              Na oru passionate Full Stack Designer & Developer.
-              Creative UI design um strong backend logic um
-              combine panni real-world problems solve
-              panna applications build pannren.
+            I am a motivated Full Stack Web Developer with hands-on experience in building responsive web applications using modern technologies. I have a strong interest in creating user-friendly interfaces and scalable backend systems, and I continuously strive to improve my technical and problem-solving skills.
             </p>
           </motion.div>
 
@@ -105,10 +101,7 @@ export default function About() {
               Educational Background
             </h3>
             <p className="text-gray-200 leading-relaxed">
-              I am currently pursuing my education and simultaneously
-              learning full stack development.
-              I continuously improve my skills by building
-              real-time projects alongside my studies.
+             Completed my college education and currently pursuing a Full Stack Web Development course to enhance my practical and technical skills.
             </p>
           </motion.div>
 
