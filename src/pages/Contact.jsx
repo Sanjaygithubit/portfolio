@@ -105,7 +105,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="mailto:yourmail@example.com"
+              href="mailto:sanjaydev018@gmail.com"
               className="text-gray-300 hover:text-white transition"
             >
               Email
